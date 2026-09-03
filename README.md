@@ -1,12 +1,11 @@
 <div align="center">
-  <!-- REMPLACE LE LIEN CI-DESSOUS PAR LE LIEN DE TON GIF GIPHY -->
-  <img src="[COLLE_TON_LIEN_GIPHY_ICI.gif](https://giphy.com/gifs/VIU0t3EaFcpPPjPV5N)" width="300" alt="Mon GIF">
+  <img src="https://media.giphy.com/media/VIU0t3EaFcpPPjPV5N/giphy.gif" width="300" alt="Animation Développeur">
   
   <h1>Salut, je suis Mohamed Amine Cheikh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" alt="Waving Hand"></h1>
 
   <p>
     <a href="https://github.com/Slowmfy">
-      <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Étudiant+M1+MIAGE;Développeur+Full-Stack;Passionné+par+l'IA" alt="[Typing SVG](https://giphy.com/gifs/VIU0t3EaFcpPPjPV5N)" />
+      <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Étudiant+M1+MIAGE;Développeur+Full-Stack;Passionné+par+l'IA" alt="Typing SVG" />
     </a>
   </p>
 </div>
