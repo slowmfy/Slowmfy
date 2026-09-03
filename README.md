@@ -1,6 +1,6 @@
 <div align="center">
   <!-- REMPLACE LE LIEN CI-DESSOUS PAR LE LIEN DE TON GIF GIPHY -->
-  <img src="COLLE_TON_LIEN_GIPHY_ICI.gif" width="300" alt="Mon GIF">
+  <img src="[COLLE_TON_LIEN_GIPHY_ICI.gif](https://giphy.com/gifs/VIU0t3EaFcpPPjPV5N)" width="300" alt="Mon GIF">
   
   <h1>Salut, je suis Mohamed Amine Cheikh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" alt="Waving Hand"></h1>
 
