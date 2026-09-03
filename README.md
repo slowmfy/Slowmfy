@@ -16,7 +16,9 @@ Je transforme des idées en applications modernes, utiles et performantes, avec 
 ### 👨‍💻 À propos de moi
 
 - 🎓 Étudiant en **Master 1 MIAGE** (Informatique et systèmes d'information).
-- 🎯 **En recherche active :** Je cherche un **stage en développement informatique d'au moins 12 semaines** (Juillet & Août) à partir du M2.
+- je suis actuellement à la recherche d’un stage alterné d’une durée minimum de 12 semaines, que je souhaiterais effectuer après mes examens du deuxième semestre.
+- Juillet et Août : disponibilité à temps plein.
+- Dès le M2 : le rythme passera à 3 semaines en entreprise pour 1 semaine de cours
 - 💡 Mon objectif est de travailler sur des problématiques réelles et de progresser au sein d'une équipe, notamment autour de **React, Angular, Spring, Django et l'IA**.
 - 📍 **Localisation :** Grenoble / France
 
