@@ -111,14 +111,6 @@ Je transforme des idées en applications **modernes, utiles et performantes**, a
 
 </div>
 
-## Habitudes de code
-
-<div align="center">
-
-<img src="metrics/habits.svg" alt="Habitudes de code" width="100%" />
-
-</div>
-
 ## Succès GitHub
 
 <div align="center">
