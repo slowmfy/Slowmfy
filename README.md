@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=190&section=header&text=Mohamed%20Amine%20Cheikh&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Développeur%20Full-Stack%20%E2%80%A2%20Étudiant%20Master%20MIAGE&descSize=16&descAlignY=58" width="100%" alt="Bannière" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=React+%E2%80%A2+Angular+%E2%80%A2+Spring+%E2%80%A2+Django;Architecture+logicielle+%26+IA;Applications+modernes+et+performantes+%F0%9F%9A%80" alt="Technologies : React, Angular, Spring, Django" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=React+%E2%80%A2+Angular+%E2%80%A2+Spring+%E2%80%A2+Django;Architecture+logicielle+%26+IA;Applications+modernes+et+performantes" alt="Technologies : React, Angular, Spring, Django" />
 </a>
 
 <p>
@@ -18,19 +18,29 @@
 
 ---
 
-## 👨‍💻 À propos
+## À propos
 
 Je transforme des idées en applications **modernes, utiles et performantes**, avec un intérêt particulier pour le **développement web**, l'**architecture logicielle** et l'**intelligence artificielle**.
 
 | | |
 |---|---|
-| 🎓 **Formation** | Master 1 **MIAGE** — Informatique et systèmes d'information |
-| 🎯 **Objectif** | Travailler sur des problématiques réelles autour de **React, Angular, Spring, Django et l'IA** |
-| 📍 **Localisation** | Grenoble, France |
+| **Formation** | Licence et Master 1 **MIAGE** obtenus — Master 2 **MIAGE** en cours, Université Grenoble Alpes |
+| **Objectif** | Travailler sur des problématiques réelles autour de **React, Angular, Spring, Django et l'IA** |
+| **Localisation** | Grenoble, France |
 
 ---
 
-## 🛠️ Stack technique
+## Parcours et compétences
+
+| Diplôme | Statut | Compétences |
+|---|---|---|
+| **Licence 3 MIAGE** — Université Grenoble Alpes | Obtenue | Programmation orientée objet (Java), bases de données relationnelles et SQL, développement web, génie logiciel, réseaux, fondamentaux de gestion et de comptabilité |
+| **Master 1 MIAGE** — Université Grenoble Alpes | Obtenu | Processus de développement logiciel et méthodes agiles, patrons de conception et composants, modélisation UML et des exigences, ingénierie des IHM, administration de bases de données, systèmes et réseaux, développement mobile, analyse de données, gestion financière et de production, contrôle de gestion, droit du numérique |
+| **Master 2 MIAGE** — Université Grenoble Alpes | En cours | Modélisation des processus métier, gestion de projets informatiques, conduite du changement, big data, IoT et technologies émergentes, systèmes de gestion des connaissances, systèmes d'information spécialisés, entrepreneuriat |
+
+---
+
+## Stack technique
 
 <div align="center">
 
@@ -50,7 +60,7 @@ Je transforme des idées en applications **modernes, utiles et performantes**, a
 
 ---
 
-## 🚀 Projets
+## Projets
 
 <div align="center">
 
@@ -71,13 +81,13 @@ Je transforme des idées en applications **modernes, utiles et performantes**, a
 
 | Projet | Description | Stack |
 |---|---|---|
-| 🌐 [**Refonte du site universitaire**](https://github.com/ranidzkellou/Projet-DevWeb2) | Refonte complète : structure, interface et expérience utilisateur | `HTML` `CSS` `JavaScript` |
-| 🧮 [**Calculateur de Zakat pour entreprises**](https://github.com/6laza/Awkaf) | Calcul de la zakat d'une entreprise à partir de ses données financières | `JavaScript` |
-| 🔗 [**Application Peer-to-Peer**](https://github.com/slowmfy/Peer2peer-java-) | Connexion directe entre utilisateurs via sockets | `Java` `Sockets` `Réseaux` |
+| [**Refonte du site universitaire**](https://github.com/ranidzkellou/Projet-DevWeb2) | Refonte complète : structure, interface et expérience utilisateur | `HTML` `CSS` `JavaScript` |
+| [**Calculateur de Zakat pour entreprises**](https://github.com/6laza/Awkaf) | Calcul de la zakat d'une entreprise à partir de ses données financières | `JavaScript` |
+| [**Application Peer-to-Peer**](https://github.com/slowmfy/Peer2peer-java-) | Connexion directe entre utilisateurs via sockets | `Java` `Sockets` `Réseaux` |
 
 ---
 
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
 <div align="center">
 
@@ -87,7 +97,7 @@ Je transforme des idées en applications **modernes, utiles et performantes**, a
 
 </div>
 
-## 📈 Activité des commits
+## Activité des commits
 
 <div align="center">
 
@@ -104,7 +114,7 @@ Je transforme des idées en applications **modernes, utiles et performantes**, a
 
 <div align="center">
 
-**💬 N'hésitez pas à me contacter, je réponds rapidement !**
+**N'hésitez pas à me contacter, je réponds rapidement !**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=100&section=footer" width="100%" alt="Pied de page" />
 
