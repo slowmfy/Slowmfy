@@ -8,6 +8,7 @@
 </a>
 
 <p>
+  <a href="https://slowmfy.github.io"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:Mohamed-Amine.Cheikh@etu.univ-grenoble-alpes.fr"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/mohamed-amine-cheikh-54395b296"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Grenoble-France-1e3a8a?style=flat-square&logo=googlemaps&logoColor=white" alt="Localisation" />
@@ -58,6 +59,19 @@ Je transforme des idées en applications **modernes, utiles et performantes**, a
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,linux&theme=dark" alt="Outils" />
 
 </div>
+
+---
+
+## Méthodes de travail
+
+| Domaine | Pratiques |
+|---|---|
+| **Gestion de projet** | Méthodes agiles (Scrum, Kanban), découpage en user stories, revues de sprint |
+| **Conception** | Modélisation UML et analyse des exigences, patrons de conception, architecture en couches |
+| **Développement** | Git et pull requests, conventions de nommage, code lisible et documenté |
+| **Qualité** | Tests d'API (Postman), tests unitaires, revue de code |
+| **Automatisation** | Intégration continue avec GitHub Actions |
+| **Collaboration** | Travail en équipe sur des projets universitaires, communication en français et en anglais |
 
 ---
 
