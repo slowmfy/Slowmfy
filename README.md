@@ -104,7 +104,7 @@ Je transforme des idées en applications **modernes, utiles et performantes**, a
 
 <div align="center">
 
-**💬 N'hésitez pas à me contacter !**
+**💬 N'hésitez pas à me contacter, je réponds rapidement !**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=100&section=footer" width="100%" alt="Pied de page" />
 
