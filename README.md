@@ -30,7 +30,7 @@ Je transforme des idées en applications **modernes, utiles et performantes**, a
 | **Localisation** | Grenoble, France |
 
 <div align="center">
-  <img src="assets/terminal.gif" alt="Terminal : un build qui échoue, une pause café et un fix final" width="520" />
+  <img src="assets/knight.gif" alt="Un chevalier se repose près d'un feu de camp" width="600" />
 </div>
 
 ---
