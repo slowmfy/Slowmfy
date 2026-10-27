@@ -34,6 +34,7 @@ Je transforme des idées en applications **modernes, utiles et performantes**, a
 
 | Diplôme | Statut | Compétences |
 |---|---|---|
+| **Licence — parcours Ingénierie des systèmes d'information** | Obtenue | Algorithmique et programmation, systèmes d'exploitation, réseaux, bases de données, analyse et conception des systèmes d'information (Merise, UML), génie logiciel, développement web |
 | **Licence 3 MIAGE** — Université Grenoble Alpes | Obtenue | Programmation orientée objet (Java), bases de données relationnelles et SQL, développement web, génie logiciel, réseaux, fondamentaux de gestion et de comptabilité |
 | **Master 1 MIAGE** — Université Grenoble Alpes | En cours | Processus de développement logiciel et méthodes agiles, patrons de conception et composants, modélisation UML et des exigences, ingénierie des IHM, administration de bases de données, systèmes et réseaux, développement mobile, analyse de données, gestion financière et de production, contrôle de gestion, droit du numérique |
 | **Master 2 MIAGE** — Université Grenoble Alpes | À venir | Modélisation des processus métier, gestion de projets informatiques, conduite du changement, big data, IoT et technologies émergentes, systèmes de gestion des connaissances, systèmes d'information spécialisés, entrepreneuriat |
