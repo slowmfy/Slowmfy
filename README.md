@@ -111,6 +111,25 @@ Je transforme des idées en applications **modernes, utiles et performantes**, a
 
 </div>
 
+## Habitudes de code
+
+<div align="center">
+
+<img src="metrics/habits.svg" alt="Habitudes de code" width="100%" />
+
+</div>
+
+## Succès GitHub
+
+<div align="center">
+<p>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" alt="Pull Shark" title="Pull Shark — pull requests fusionnées" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" alt="YOLO" title="YOLO — fusion sans relecture" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" alt="Quickdraw" title="Quickdraw — issue fermée en moins de 5 minutes" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90" alt="Pair Extraordinaire" title="Pair Extraordinaire — commit co-écrit" />
+</p>
+</div>
+
 ---
 
 <div align="center">
