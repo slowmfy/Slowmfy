@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=190&section=header&text=Mohamed%20Amine%20Cheikh&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Développeur%20Full-Stack%20%E2%80%A2%20Étudiant%20Master%20MIAGE&descSize=16&descAlignY=58" width="100%" alt="Bannière" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=React+%E2%80%A2+Angular+%E2%80%A2+Spring+%E2%80%A2+Django;Architecture+logicielle+%26+IA;En+recherche+d'alternance+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=React+%E2%80%A2+Angular+%E2%80%A2+Spring+%E2%80%A2+Django;Architecture+logicielle+%26+IA;Applications+modernes+et+performantes+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <p>
@@ -25,8 +25,6 @@ Je transforme des idées en applications **modernes, utiles et performantes**, a
 | | |
 |---|---|
 | 🎓 **Formation** | Master 1 **MIAGE** — Informatique et systèmes d'information |
-| 💼 **Recherche** | Stage alterné (12 semaines minimum) après les examens du S2 |
-| 📅 **Disponibilité** | Temps plein en **juillet–août** · puis **3 semaines entreprise / 1 semaine cours** dès le M2 |
 | 🎯 **Objectif** | Travailler sur des problématiques réelles autour de **React, Angular, Spring, Django et l'IA** |
 | 📍 **Localisation** | Grenoble, France |
 
@@ -102,7 +100,7 @@ Je transforme des idées en applications **modernes, utiles et performantes**, a
 
 <div align="center">
 
-**💬 Ouvert aux opportunités d'alternance — n'hésitez pas à me contacter !**
+**💬 N'hésitez pas à me contacter !**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=100&section=footer" width="100%" alt="Pied de page" />
 
