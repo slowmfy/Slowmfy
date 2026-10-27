@@ -81,10 +81,9 @@ Je transforme des idées en applications **modernes, utiles et performantes**, a
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=slowmfy&theme=tokyonight&hide_border=true&background=0d1117&ring=2563eb&fire=2563eb&currStreakLabel=2563eb&locale=fr" alt="Streak GitHub" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slowmfy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&locale=fr" alt="Langages" width="40%" />
+<img src="https://streak-stats.demolab.com?user=slowmfy&theme=tokyonight&hide_border=true&background=0d1117&ring=2563eb&fire=2563eb&currStreakLabel=2563eb&locale=fr" alt="Streak GitHub" width="80%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=slowmfy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&locale=fr" alt="Stats GitHub" width="60%" />
+<img src="metrics/overview.svg" alt="Vue d'ensemble" width="100%" />
 
 </div>
 
@@ -92,7 +91,20 @@ Je transforme des idées en applications **modernes, utiles et performantes**, a
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=slowmfy&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2563eb&line=2563eb&point=ffffff&area=true&area_color=1e3a8a" alt="Graphique d'activité" width="100%" />
+<img src="metrics/isocalendar.svg" alt="Calendrier des contributions" width="100%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/slowmfy/slowmfy/output/contributions-dark.svg" />
+  <img src="https://raw.githubusercontent.com/slowmfy/slowmfy/output/contributions.svg" alt="Grille de contributions" width="100%" />
+</picture>
+
+</div>
+
+## 🏆 Succès
+
+<div align="center">
+
+<img src="metrics/achievements.svg" alt="Succès GitHub" width="100%" />
 
 </div>
 
