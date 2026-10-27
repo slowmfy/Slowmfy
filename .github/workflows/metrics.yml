@@ -1,4 +1,5 @@
 name: Profil - statistiques
+# Génère les statistiques du profil (grille de contributions et métriques).
 
 on:
   schedule:
