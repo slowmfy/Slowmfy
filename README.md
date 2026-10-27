@@ -100,14 +100,6 @@ Je transforme des idées en applications **modernes, utiles et performantes**, a
 
 </div>
 
-## 🏆 Succès
-
-<div align="center">
-
-<img src="metrics/achievements.svg" alt="Succès GitHub" width="100%" />
-
-</div>
-
 ---
 
 <div align="center">
