@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=190&section=header&text=Mohamed%20Amine%20Cheikh&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Développeur%20Full-Stack%20%E2%80%A2%20Étudiant%20Master%20MIAGE&descSize=16&descAlignY=58" width="100%" alt="Bannière" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=React+%E2%80%A2+Angular+%E2%80%A2+Spring+%E2%80%A2+Django;Architecture+logicielle+%26+IA;Applications+modernes+et+performantes+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=React+%E2%80%A2+Angular+%E2%80%A2+Spring+%E2%80%A2+Django;Architecture+logicielle+%26+IA;Applications+modernes+et+performantes+%F0%9F%9A%80" alt="Technologies : React, Angular, Spring, Django" />
 </a>
 
 <p>
