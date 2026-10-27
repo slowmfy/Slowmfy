@@ -1,75 +1,109 @@
+<!-- ===================== EN-TÊTE ===================== -->
 <div align="center">
-  <img src="https://media.giphy.com/media/VIU0t3EaFcpPPjPV5N/giphy.gif" width="300" alt="Animation Développeur">
-  
-  <h1>Salut, je suis Mohamed Amine Cheikh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" alt="Waving Hand"></h1>
 
-  <p>
-    <a href="https://github.com/Slowmfy">
-    </a>
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=190&section=header&text=Mohamed%20Amine%20Cheikh&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Développeur%20Full-Stack%20%E2%80%A2%20Étudiant%20Master%20MIAGE&descSize=16&descAlignY=58" width="100%" alt="Bannière" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=React+%E2%80%A2+Angular+%E2%80%A2+Spring+%E2%80%A2+Django;Architecture+logicielle+%26+IA;En+recherche+d'alternance+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<p>
+  <a href="mailto:Mohamed-Amine.Cheikh@etu.univ-grenoble-alpes.fr"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-amine-cheikh-54395b296"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Grenoble-France-1e3a8a?style=flat-square&logo=googlemaps&logoColor=white" alt="Localisation" />
+  <img src="https://komarev.com/ghpvc/?username=slowmfy&color=2563eb&style=flat-square&label=Vues" alt="Vues du profil" />
+</p>
+
 </div>
 
-Je transforme des idées en applications modernes, utiles et performantes, avec un intérêt particulier pour le développement web, l'architecture logicielle et l'intelligence artificielle.
+---
 
-<br>
+## 👨‍💻 À propos
 
-### 👨‍💻 À propos de moi
+Je transforme des idées en applications **modernes, utiles et performantes**, avec un intérêt particulier pour le **développement web**, l'**architecture logicielle** et l'**intelligence artificielle**.
 
-- 🎓 Étudiant en **Master 1 MIAGE** (Informatique et systèmes d'information).
-- je suis actuellement à la recherche d’un stage alterné d’une durée minimum de 12 semaines, que je souhaiterais effectuer après mes examens du deuxième semestre.
-- Juillet et Août : disponibilité à temps plein.
-- Dès le M2 : le rythme passera à 3 semaines en entreprise pour 1 semaine de cours
-- 💡 Mon objectif est de travailler sur des problématiques réelles et de progresser au sein d'une équipe, notamment autour de **React, Angular, Spring, Django et l'IA**.
-- 📍 **Localisation :** Grenoble / France
+| | |
+|---|---|
+| 🎓 **Formation** | Master 1 **MIAGE** — Informatique et systèmes d'information |
+| 💼 **Recherche** | Stage alterné (12 semaines minimum) après les examens du S2 |
+| 📅 **Disponibilité** | Temps plein en **juillet–août** · puis **3 semaines entreprise / 1 semaine cours** dès le M2 |
+| 🎯 **Objectif** | Travailler sur des problématiques réelles autour de **React, Angular, Spring, Django et l'IA** |
+| 📍 **Localisation** | Grenoble, France |
 
-<br>
+---
 
-### 🛠️ Mon environnement technique
+## 🛠️ Stack technique
 
 <div align="center">
-  <p><strong>Frontend</strong></p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 
-  <p><strong>Backend & BDD</strong></p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular&theme=dark" alt="Frontend" />
+
+**Backend & Bases de données**
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,django,php,mysql&theme=dark" alt="Backend" />
+
+**Outils**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,linux&theme=dark" alt="Outils" />
+
 </div>
 
-<br>
+---
 
-### 🚀 Quelques réalisations
-
-* 🌐 [**Refonte du site web universitaire**](https://github.com/ranidzkellou/Projet-DevWeb2)  
-  *Refonte d'un site web universitaire avec une attention portée à la structure, l'interface et l'expérience utilisateur (HTML, CSS, JS).*
-  
-* 🧮 [**Calculateur de Zakat pour entreprises**](https://github.com/6laza/Awkaf)  
-  *Développement d'un site permettant de calculer la zakat des entreprises à partir d'informations financières (JavaScript).*
-
-* 🔗 [**Application Java Peer-to-Peer**](https://github.com/slowmfy/Peer2peer-java-)  
-  *Développement d'une application permettant une connexion peer-to-peer entre différents utilisateurs (Java, Socket, Réseaux).*
-
-<br>
-
-### 📫 Comment me contacter
+## 🚀 Projets
 
 <div align="center">
-  <a href="mailto:Mohamed-Amine.Cheikh@etu.univ-grenoble-alpes.fr">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-amine-cheikh-54395b296">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+
+<a href="https://github.com/ranidzkellou/Projet-DevWeb2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ranidzkellou&repo=Projet-DevWeb2&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Projet-DevWeb2" />
+</a>
+<a href="https://github.com/6laza/Awkaf">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=6laza&repo=Awkaf&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Awkaf" />
+</a>
+<a href="https://github.com/slowmfy/Peer2peer-java-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=slowmfy&repo=Peer2peer-java-&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Peer2peer" />
+</a>
+<a href="https://github.com/slowmfy/JSONPlaceholder-API-TEST">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=slowmfy&repo=JSONPlaceholder-API-TEST&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="JSONPlaceholder API Test" />
+</a>
+
 </div>
 
-<br>
+| Projet | Description | Stack |
+|---|---|---|
+| 🌐 [**Refonte du site universitaire**](https://github.com/ranidzkellou/Projet-DevWeb2) | Refonte complète : structure, interface et expérience utilisateur | `HTML` `CSS` `JavaScript` |
+| 🧮 [**Calculateur de Zakat pour entreprises**](https://github.com/6laza/Awkaf) | Calcul de la zakat d'une entreprise à partir de ses données financières | `JavaScript` |
+| 🔗 [**Application Peer-to-Peer**](https://github.com/slowmfy/Peer2peer-java-) | Connexion directe entre utilisateurs via sockets | `Java` `Sockets` `Réseaux` |
+
+---
+
+## 📊 Statistiques GitHub
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Slowmfy&color=blue&style=flat-square&label=Vues+du+profil" alt="Compteur de vues" />
+
+<img src="https://streak-stats.demolab.com?user=slowmfy&theme=tokyonight&hide_border=true&background=0d1117&ring=2563eb&fire=2563eb&currStreakLabel=2563eb&locale=fr" alt="Streak GitHub" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slowmfy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&locale=fr" alt="Langages" width="40%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=slowmfy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&locale=fr" alt="Stats GitHub" width="60%" />
+
+</div>
+
+## 📈 Activité des commits
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=slowmfy&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2563eb&line=2563eb&point=ffffff&area=true&area_color=1e3a8a" alt="Graphique d'activité" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+**💬 Ouvert aux opportunités d'alternance — n'hésitez pas à me contacter !**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=100&section=footer" width="100%" alt="Pied de page" />
+
 </div>
