@@ -29,6 +29,10 @@ Je transforme des idées en applications **modernes, utiles et performantes**, a
 | **Objectif** | Travailler sur des problématiques réelles autour de **React, Angular, Spring, Django et l'IA** |
 | **Localisation** | Grenoble, France |
 
+<div align="center">
+  <img src="assets/dev.gif" alt="Un développeur, un build qui échoue, une pause café et un fix final" width="640" />
+</div>
+
 ---
 
 ## Parcours et compétences
