@@ -81,28 +81,12 @@ Je transforme des idées en applications **modernes, utiles et performantes**, a
 
 ## Projets
 
-<div align="center">
-
-<a href="https://github.com/ranidzkellou/Projet-DevWeb2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ranidzkellou&repo=Projet-DevWeb2&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Projet-DevWeb2" />
-</a>
-<a href="https://github.com/6laza/Awkaf">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=6laza&repo=Awkaf&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Awkaf" />
-</a>
-<a href="https://github.com/slowmfy/Peer2peer-java-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=slowmfy&repo=Peer2peer-java-&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Peer2peer" />
-</a>
-<a href="https://github.com/slowmfy/JSONPlaceholder-API-TEST">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=slowmfy&repo=JSONPlaceholder-API-TEST&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="JSONPlaceholder API Test" />
-</a>
-
-</div>
-
 | Projet | Description | Stack |
 |---|---|---|
 | [**Refonte du site universitaire**](https://github.com/ranidzkellou/Projet-DevWeb2) | Refonte complète : structure, interface et expérience utilisateur | `HTML` `CSS` `JavaScript` |
 | [**Calculateur de Zakat pour entreprises**](https://github.com/6laza/Awkaf) | Calcul de la zakat d'une entreprise à partir de ses données financières | `JavaScript` |
 | [**Application Peer-to-Peer**](https://github.com/slowmfy/Peer2peer-java-) | Connexion directe entre utilisateurs via sockets | `Java` `Sockets` `Réseaux` |
+| [**Client de l'API JSONPlaceholder**](https://github.com/slowmfy/JSONPlaceholder-API-TEST) | Appels REST (GET, POST, PUT, PATCH, DELETE) via un menu console et une interface web, avec tests automatisés | `Python` `FastAPI` `Angular` `PyTest` |
 
 ---
 
